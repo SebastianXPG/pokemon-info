@@ -1,0 +1,11 @@
+h2{
+    color: #f1721e;
+    margin-bottom: 15px;
+}
+
+.list-generations{
+    border-style: dashed;
+    list-style: none;
+    padding: 10px;
+    background-color: #c48256;
+}

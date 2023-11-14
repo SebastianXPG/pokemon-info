@@ -1,4 +1,6 @@
 .container{
-    background-color: #6d6565;
-    height: 100vh;
+    background-color: #6C5F5B;
+    height: 100%;
+    width: 50%;
+    border-radius: 40px;
 }

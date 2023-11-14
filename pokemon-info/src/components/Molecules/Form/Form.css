@@ -1,0 +1,16 @@
+label{
+    color: #F6F1EE;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button{
+    border-radius: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-style: solid   ;
+}
+
+button:hover{
+    background-color: rgb(245, 135, 32);
+}

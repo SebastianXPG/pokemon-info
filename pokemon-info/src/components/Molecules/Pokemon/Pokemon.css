@@ -1,0 +1,34 @@
+.pokemon{
+    /* background-color: aqua; */
+    margin: 15px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-pokemon{
+    color: #f1721e;
+    font-weight: bold;
+}
+
+.list-feature{
+    list-style: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.li-result{
+    margin-top: 10px;
+    border-style: dotted;
+    color: rgb(255, 255, 255);
+    width: 200px;
+
+}
+
+.name-pokemon{
+    color: #F6F1EE;
+}
+
+img{
+    background-color: rgba(95, 98, 98, 0.79);
+}

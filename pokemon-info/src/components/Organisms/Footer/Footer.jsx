@@ -4,8 +4,7 @@ const Footer = () => {
     return (
         <>
         <footer>
-            <label>Footer :</label>
-            <p>PokemonQuery Desarrollado por : Juan Sebastian</p>
+            <p>PokemonQuery Desarrollado por : Juan Sebastian Usuga</p>
         </footer>
         </>
     );

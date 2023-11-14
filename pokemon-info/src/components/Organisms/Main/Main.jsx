@@ -50,7 +50,6 @@ useEffect(() => {
     <>
       <main>
         <Form onChange={handleChangeForm} onSubmit={handleSubmit} />
-        <div>{pokemonName}</div>
         <Generations generations={generations} />
         <Pokemon
           pokemonName={pokemon.name}
